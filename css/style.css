@@ -115,6 +115,7 @@ ul.todo li {
   font-weight:500;
   color:#444;
   line-height:22px;
+  list-style: none;
   
   background:#ffffff;
   border-radius:5px;
